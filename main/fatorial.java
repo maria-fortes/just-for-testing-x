@@ -25,8 +25,6 @@ public class Exercicio05For {
             System.out.println(fatorialDoNumero + "! = " + resultadoFatorial);
         } else if (fatorialDoNumero == 1){
             System.out.println(fatorialDoNumero + "! = " + resultadoFatorial);
-        }else if (fatorialDoNumero == 2){
-            System.out.println(fatorialDoNumero + "! = " + resultadoFatorial)
         }else {
             System.out.println(fatorialDoNumero + "! = " + multiplicador + "1 = " + resultadoFatorial);
         }
